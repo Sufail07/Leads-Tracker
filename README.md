@@ -28,4 +28,6 @@ Rest easy knowing that your lead data is secure. The extension employs robust da
 #### Open Source and Customizable:
 Leads Tracker is an open-source project, allowing users to customize and enhance the extension according to their unique requirements. Share feedback, contribute to the community, and tailor the tool to meet your specific needs.
 
+#### Double click 'Delete All' in order to delete all of the existing leads
+
 Enhance your lead management workflow with LeadTracker – the comprehensive and customizable solution for tracking, organizing, and converting leads effectively. Download it now and take control of your sales pipeline.
