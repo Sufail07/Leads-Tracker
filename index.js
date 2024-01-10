@@ -52,3 +52,9 @@ inputBtn.addEventListener("click", function() {
         errorEl.textContent = "This link already exists in the list"
     }
 })
+
+inputEl.addEventListener("keypress", function(event) {
+    if (event.key === "Enter") {
+        inputBtn.dispatchEvent(new Event("click"))
+    }
+})
